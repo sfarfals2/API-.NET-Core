@@ -6,9 +6,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Med.Application.DTO\Med.Application.DTO.csproj" />
+    <ProjectReference Include="..\Med.Domain.Core\Med.Domain.Core.csproj" />
     <ProjectReference Include="..\Med.Domain.Services\Med.Domain.Services.csproj" />
     <ProjectReference Include="..\Med.Infrastructure.CrossCutting.Adapter\Med.Infrastructure.CrossCutting.Adapter.csproj" />
-    <ProjectReference Include="..\Medication.Domain.Core\Med.Domain.Core.csproj" />
   </ItemGroup>
 
 </Project>

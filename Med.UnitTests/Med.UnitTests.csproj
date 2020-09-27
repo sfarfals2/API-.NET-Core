@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MedicationAPI\Med.API.csproj" />
+    <ProjectReference Include="..\Med.API\Med.API.csproj" />
   </ItemGroup>
 
 </Project>

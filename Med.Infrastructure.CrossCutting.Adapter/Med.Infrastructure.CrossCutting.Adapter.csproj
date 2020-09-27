@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Med.Application.DTO\Med.Application.DTO.csproj" />
-    <ProjectReference Include="..\Medication.Domain\Med.Domain.csproj" />
+    <ProjectReference Include="..\Med.Domain\Med.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Med.Domain.Core\Med.Domain.Core.csproj" />
+    <ProjectReference Include="..\Med.Domain\Med.Domain.csproj" />
     <ProjectReference Include="..\Med.Infrastruture.Data\Med.Infrastruture.Data.csproj" />
-    <ProjectReference Include="..\Medication.Domain.Core\Med.Domain.Core.csproj" />
-    <ProjectReference Include="..\Medication.Domain\Med.Domain.csproj" />
   </ItemGroup>
 
 </Project>

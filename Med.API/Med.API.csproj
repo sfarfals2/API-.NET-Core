@@ -17,9 +17,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Med.Application.DTO\Med.Application.DTO.csproj" />
+    <ProjectReference Include="..\Med.Application\Med.Application.csproj" />
     <ProjectReference Include="..\Med.Infrastructure.CrossCutting.IOC\Med.Infrastructure.CrossCutting.IOC.csproj" />
     <ProjectReference Include="..\Med.Infrastruture.Data\Med.Infrastruture.Data.csproj" />
-    <ProjectReference Include="..\Medication.Application\Med.Application.csproj" />
   </ItemGroup>
 
 
