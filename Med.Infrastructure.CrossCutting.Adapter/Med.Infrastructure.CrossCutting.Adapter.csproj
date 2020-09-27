@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Med.Application.DTO\Med.Application.DTO.csproj" />
+    <ProjectReference Include="..\Medication.Domain\Med.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
